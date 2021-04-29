@@ -1,0 +1,24 @@
+1619709151742	geckodriver	INFO	Listening on 127.0.0.1:57070
+1619709152767	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x6/c0mm_d854zd3ll42l90rkd7c0000gn/T/rust_mozprofileUDL14d"
+1619709155476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619709160376	Marionette	INFO	Listening on port 57085
+1619709160502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619709555433	geckodriver	INFO	Listening on 127.0.0.1:57273
+1619709556447	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x6/c0mm_d854zd3ll42l90rkd7c0000gn/T/rust_mozprofile9d4Nsa"
+1619709557789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619709561759	Marionette	INFO	Listening on port 57284
+1619709561845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619716641579	geckodriver	INFO	Listening on 127.0.0.1:57609
+1619716642620	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/x6/c0mm_d854zd3ll42l90rkd7c0000gn/T/rust_mozprofileP8PyzJ"
+1619716645659	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619716652129	Marionette	INFO	Listening on port 57616
+1619716652211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619716652543	Marionette	INFO	Stopped listening on port 57616
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
